@@ -1,1 +1,2 @@
-const run = 2;
+const run = 200;
+const walking = 100;
